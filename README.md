@@ -50,6 +50,16 @@ Voir Mon-porte-folio
 - À ce stade, je perçois que le no-code est très largement minoritaire
 - Par ailleurs, le principe des "plateformes propriétaires" n'invitent pas à la collaboration dans les projets. Sauf à prendre des "abonnement Team" que que plusieurs personnes collaborent au projet.
 
+## Réalisation de plugin
+
+### Connecteur entre Garradin (écrit en PHP) et HelloAsso (sur Swagger)
+- Détails ici : https://gitlab.com/jrd10/garradin-helloasso-connecteur
+- Le non-code peut-il résoudre ce problème sans code ...
+  - Côté Garradin : https://fossil.kd2.org/garradin/wiki?name=API
+  - Côté HelloAsso : https://api.helloasso.com/v5/swagger/ui/index
+  - La clé est disponible à partir du compte HelloAsso  
+
+
 ## Mise à jour
 - Le 3 juillet 2021.
 - Je vous invité à poser des questions ou indiquer des erreurs et typos.
